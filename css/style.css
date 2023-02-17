@@ -655,7 +655,7 @@ img {
   transform: translate(-50%, -80%);
 }
 
-/* ********** MODAL - FORM ************ */
+/* ********** MODAL - FORM - input ************ */
 .modal-title {
   align-self: center;
 
@@ -714,8 +714,7 @@ img {
 .massage-field {
   margin-bottom: 16px;
 }
-.modal-lable {
-}
+
 .massage-input {
   display: block;
   width: 100%;
